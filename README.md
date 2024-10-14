@@ -9,6 +9,6 @@ My stack is
 >- <h3>Spring Boot</h3>
 >- <h3>Hibernate</h3>
 ## Roadmap ✘
->- 1-Java Core
->- 2-Spring Boot
->- 3-Project of stars 
+>- <h3>1-Java Core</h3>
+>- <h3>2-Spring Boot</h3>
+>- <h3>3-Project of stars</h3> 
