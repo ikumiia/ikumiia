@@ -9,6 +9,6 @@ My stack is
 >- <h3>Spring Boot</h3>
 >- <h3>Hibernate</h3>
 ## Roadmap ✘
->- 1-Java Core [███-------]{30%}
->- 2-Spring Boot [----------]{0%}
->- 3-Project of stars [██-------]{20%}
+>- 1-Java Core
+>- 2-Spring Boot
+>- 3-Project of stars 
