@@ -18,6 +18,6 @@
 ---
 
 ## About Me
-## Currently advancing as a Java Junior Developer
-## Passionate about backend development and distributed systems
-## Working with Java, Spring, Kafka, Docker, and PostgreSQL
+    <h4>Currently advancing as a Java Junior Developer</h4>
+     <h4>Passionate about backend development and distributed systems</h4>
+      <h4>Working with Java, Spring, Kafka, Docker, and PostgreSQL</h4>
