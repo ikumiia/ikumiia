@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Ikumiia 👋</h1>
 
-<p align="center">
+<div align="center">
   Java Junior Developer
 </p>
 
----
 
  ## My Tech Stack
 <p align="center">
@@ -15,8 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="65" height="65"/>
 </p>
 
-
----
 
 ## About Me
 #### Currently advancing as a Java Junior Developer
