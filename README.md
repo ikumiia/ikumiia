@@ -11,22 +11,25 @@ My stack is
 >- Kafka 
 >- Docker 
  
-<table align="center"> 
-  <tr> 
-    <td align="center"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/><br/>Java 
-    </td> 
-    <td align="center"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="70" height="70"/><br/>Spring 
-    </td> 
-    <td align="center"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="70" height="70"/><br/>Kafka 
-    </td> 
-    <td align="center"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/><br/>Docker 
-    </td> 
-    <td align="center"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/><br/>Postgresql 
-    </td> 
-  </tr> 
-</table>
+<div align="center"> 
+  <p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/><br/> 
+    Java 
+  </p> 
+  <p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="70" height="70"/><br/> 
+    Spring 
+  </p> 
+  <p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="70" height="70"/><br/> 
+    Kafka 
+  </p> 
+  <p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/><br/> 
+    Docker 
+  </p> 
+  <p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/><br/> 
+    Postgresql 
+  </p> 
+</div>
