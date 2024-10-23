@@ -9,8 +9,8 @@ My stack is
 >- <h3>Spring</h3>
 >- <h3>Kafka</h3>
 >- <h3>Docker</h3>
-<div id="header" align="center" display="inline-block">
-<div>
+<div id="header" align="center" >
+<div display="inline-block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="70" height="70"/>&nbsp;
 
   Java
