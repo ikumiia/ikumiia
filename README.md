@@ -1,31 +1,35 @@
-<h1 align="center">Hi there, I'm Ikumiia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Ikumiia</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="center"/>
+
 <h3 align="center">Java junior developer 🇷🇺</h3>
 
-## About me ✎
+About me ✎
 My stack is
->- <h3>Java</h3>
->- <h3>PostgreSQL</h3>
->- <h3>Spring</h3>
->- <h3>Kafka</h3>
->- <h3>Docker</h3>
-<div id="header" align="center" >
-<div display="inline-block">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="70" height="70"/>;
+>- Java
+>- PostgreSQL
+>- Spring
+>- Kafka
+>- Docker
 
-  Java
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring" alt="Spring" width="70" height="70"/>;
+<div id="header" align="center">
+  <div display="inline-block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/><br/>
+    Java
+    <br/><br/>
 
-  Spring
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"  title="Kafka" alt="Kafka" width="70" height="70"/>;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="70" height="70"/><br/>
+    Spring
+    <br/><br/>
 
-  Kafka
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="Docker" alt="Docker" width="70" height="70"/>;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="70" height="70"/><br/>
+    Kafka
+    <br/><br/>
 
-  Docker
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="Postgresql" alt="Postgresql" width="70" height="70"/>;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/><br/>
+    Docker
+    <br/><br/>
 
-  Postgresql
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/><br/>
+    Postgresql
+  </div>
 </div>
-</div>
-
