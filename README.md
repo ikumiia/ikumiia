@@ -1,35 +1,32 @@
-<h1 align="center">Hi there, I'm Ikumiia</h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="center"/>
-
-<h3 align="center">Java junior developer 🇷🇺</h3>
-
-About me ✎
-My stack is
->- Java
->- PostgreSQL
->- Spring
->- Kafka
->- Docker
-
-<div id="header" align="center">
-  <div display="inline-block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/><br/>
-    Java
-    <br/><br/>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="70" height="70"/><br/>
-    Spring
-    <br/><br/>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="70" height="70"/><br/>
-    Kafka
-    <br/><br/>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/><br/>
-    Docker
-    <br/><br/>
-
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/><br/>
-    Postgresql
-  </div>
-</div>
+<h1 align="center">Hi there, I'm Ikumiia</h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="center"/> 
+ 
+<h3 align="center">Java junior developer 🇷🇺</h3> 
+ 
+## About me ✎ 
+My stack is 
+>- Java 
+>- PostgreSQL 
+>- Spring 
+>- Kafka 
+>- Docker 
+ 
+<table align="center"> 
+  <tr> 
+    <td align="center"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/><br/>Java 
+    </td> 
+    <td align="center"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="70" height="70"/><br/>Spring 
+    </td> 
+    <td align="center"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="70" height="70"/><br/>Kafka 
+    </td> 
+    <td align="center"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="70" height="70"/><br/>Docker 
+    </td> 
+    <td align="center"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="70" height="70"/><br/>Postgresql 
+    </td> 
+  </tr> 
+</table>
