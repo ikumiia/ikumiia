@@ -11,19 +11,19 @@ My stack is
 >- <h3>Docker</h3>
 <div id="header" align="center" >
 <div display="inline-block">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="70" height="70"/>;
 
   Java
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="Spring" alt="Spring" width="70" height="70"/>;
 
   Spring
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"  title="Kafka" alt="Kafka" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"  title="Kafka" alt="Kafka" width="70" height="70"/>;
 
   Kafka
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="Docker" alt="Docker" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  title="Docker" alt="Docker" width="70" height="70"/>;
 
   Docker
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="Postgresql" alt="Postgresql" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="Postgresql" alt="Postgresql" width="70" height="70"/>;
 
   Postgresql
 </div>
