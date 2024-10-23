@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ikumiia 👋</h1>
 
-<div align="center">
+<p align="center">
   Java Junior Developer
 </p>
 
