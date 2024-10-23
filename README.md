@@ -4,7 +4,7 @@
   Java Junior Developer
 </p>
 
-
+---
 
  ## My Tech Stack
 <div align="center">
@@ -16,7 +16,7 @@
 </div>
 
 
-
+---
 
 ## About Me
 #### Currently advancing as a Java Junior Developer
