@@ -18,7 +18,7 @@ My stack is
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="Postgresql" alt="Postgresql" width="70" height="70"/>&nbsp;
 </div>
 </div>
-## Roadmap ✘
->- <h3>Java Core</h3>
->- <h3>Spring Boot</h3>
->- <h3>Project of stars</h3> 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  Java 
+</div>
