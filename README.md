@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ikumiia 👋</h1>
 
-<p align="center">
-  #### Java Junior Developer
-</p>
+<h4 align="center">
+  Java Junior Developer
+</h4>
 
 
 
