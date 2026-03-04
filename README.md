@@ -3,7 +3,7 @@ Hi, I'm ikumiia | Java Backend Developer
 Focused on building scalable backend systems with Java and Spring Boot. Deeply interested in high-performance Linux environments and clean code architecture.
 🛠 Tech Stack:
 Language: Java (Core, Collections, Multithreading)
-Frameworks: Spring Boot (Data JPA, Security) — допишешь, когда освоишь
+Frameworks: Spring Boot (Data JPA, Security)
 Databases: PostgreSQL, MySQL
 Tools: Docker, Git, Maven/Gradle
 OS: Linux Debian KDE Plasma 6.3.6
