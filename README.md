@@ -1,7 +1,7 @@
-<p>Hi, I'm ikumiia | Java Backend Developer</p>
-<h1>About me:</h1>
+<h1>Hi, I'm ikumiia | Java Backend Developer</h1>
+<h2>About me:</h2>
 <p>Focused on building scalable backend systems with Java and Spring Boot. Deeply interested in high-performance Linux environments and clean code architecture.</p>
-<h1>Tech Stack:</h1>
+<h2>Tech Stack:</h2>
 <p>Language: Java (Core, Collections, Multithreading)</p>
 <p>Frameworks: Spring Boot (Data JPA, Security)</p>
 <p>Databases: PostgreSQL, MySQL</p>
