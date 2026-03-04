@@ -1,11 +1,11 @@
-Hi, I'm ikumiia | Java Backend Developer
-🚀 About me:
-Focused on building scalable backend systems with Java and Spring Boot. Deeply interested in high-performance Linux environments and clean code architecture.
-🛠 Tech Stack:
-Language: Java (Core, Collections, Multithreading)
-Frameworks: Spring Boot (Data JPA, Security)
-Databases: PostgreSQL, MySQL
-Tools: Docker, Git, Maven/Gradle
-OS: Linux Debian KDE Plasma 6.3.6
-📈 Currently learning: Spring Cloud and Microservices architecture.
-🏁 Goal: Engineering robust solutions that handle heavy loads, just like a well-tuned engine on a mountain pass.
+<p>Hi, I'm ikumiia | Java Backend Developer</p>
+<p>🚀 About me:</p>
+<p>Focused on building scalable backend systems with Java and Spring Boot. Deeply interested in high-performance Linux environments and clean code architecture.</p>
+<p>🛠 Tech Stack:</p>
+<p>Language: Java (Core, Collections, Multithreading)</p>
+<p>Frameworks: Spring Boot (Data JPA, Security)</p>
+<p>Databases: PostgreSQL, MySQL</p>
+<p>Tools: Docker, Git, Maven/Gradle</p>
+<p>OS: Linux Debian KDE Plasma 6.3.6</p>
+<p>📈 Currently learning: Spring Cloud and Microservices architecture.</p>
+<p>🏁 Goal: Engineering robust solutions that handle heavy loads, just like a well-tuned engine on a mountain pass.</p>
