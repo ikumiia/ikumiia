@@ -11,7 +11,8 @@ Focused on building scalable backend systems with **Java** and **Spring Boot**. 
 * **OS:** Linux Debian (KDE Plasma 6.3.6)
 
 ### Certifications
-* [**Ethical Hacking with Python**](https://github.com/ikumiia/certificate/blob/main/innopolis_certificate.pdf) — Innopolis University (148 hours)
+* [**Ethical Hacking with Python**](https://github.com/ikumiia/certificate/blob/main/innopolis_certificate.pdf) — Innopolis University 
+* [**Talent NTO: Programming and Information Technology**](https://github.com/ikumiia/certificate/blob/main/TalentNTO_Diploma.pdf) — National Technological Olympiad
 
 ### Current Focus
 * Learning **Spring Cloud** and **Microservices architecture**.
